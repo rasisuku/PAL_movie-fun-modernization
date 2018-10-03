@@ -1,0 +1,4 @@
+applications:
+- name: movie-fun-app
+  path: build/libs/moviefun-1.1.0-SNAPSHOT.war
+  random-route: true
